@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "build": 2001,
-  "versionCode": 2001,
+  "build": 2003,
+  "versionCode": 2003,
   "versionName": "1.0.0",
   "release_date": "2026-10-21",
-  "download_url": "https://github.com/3obadotaify-89/Terminal-Professional-Updates/releases/download/build-2001/owner-release.apk",
-  "changelog": "Owner build 2001 (1.0.0)",
+  "download_url": "https://github.com/3obadotaify-89/Terminal-Professional-Updates/releases/download/build-2003/owner-release.apk",
+  "changelog": "Owner build 2003 (1.0.0)",
   "min_version": "1.0.0",
   "critical": false,
-  "sha256": "cb09c0dc0856fb989b79b84a850bc51d36a9b3e32bbd3906c527e449db4eef77",
+  "sha256": "c576f56d0a94dc17e503fe14902b699f0686e1cb7b2b12657aafb093d4279f47",
   "apks": {
-    "owner-release.apk": "cb09c0dc0856fb989b79b84a850bc51d36a9b3e32bbd3906c527e449db4eef77"
+    "owner-release.apk": "c576f56d0a94dc17e503fe14902b699f0686e1cb7b2b12657aafb093d4279f47"
   }
 }
