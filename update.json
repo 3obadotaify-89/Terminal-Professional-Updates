@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "build": 1040,
+  "versionCode": 1040,
+  "versionName": "1.0.0",
+  "release_date": "2026-10-21",
+  "download_url": "https://github.com/salahotaify89/Terminal-Professional-Updates/releases/download/build-1040/owner-release.apk",
+  "changelog": "Owner build 1040 (1.0.0)",
+  "min_version": "1.0.0",
+  "critical": false,
+  "sha256": "806aa164f2c936da08b4b62dc051a0f2fae42871a08f92090ccef4e23b92dff9",
+  "apks": {
+    "owner-release.apk": "806aa164f2c936da08b4b62dc051a0f2fae42871a08f92090ccef4e23b92dff9"
+  }
+}
